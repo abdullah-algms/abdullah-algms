@@ -8,7 +8,7 @@
 
 #### What skills do I operate?
 
-- **Backend:**
+ - **Backend:**
   - **Language:** `JavaScript` • `TypeScript` • `Node.js` • `Python` • `PHP`
   - **Framework:** `Laravel` • `Flask`
   - **Databases:** `MySQL` • `SQLite` • `PostgreSQL` • `Mongodb`
@@ -20,4 +20,9 @@
  - **Utils:** `Tailwind` • `Bootstrap`
 
 
-- **Ecosystem**
+- **Ecosystem:**
+
+ - **Containirazation:** `Docker`
+ - **Version Control Git:** `Git` • `Github`
+ - **CI/CD:** `Jenkins`
+ - **Cloud:** `AWS` • `Google Cloud` • `Heroku` • `Digital Ocean` • `Azure`
