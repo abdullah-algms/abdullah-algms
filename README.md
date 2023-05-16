@@ -8,5 +8,16 @@
 
 #### What skills do I operate?
 
-- 🗄️ **Backend:**
-  - **Language/Platform:** `JavaScript` • `TypeScript` • `Node.js` • `Python` • `PHP`
+- **Backend:**
+  - **Language:** `JavaScript` • `TypeScript` • `Node.js` • `Python` • `PHP`
+  - **Framework:** `Laravel` • `Flask`
+  - **Databases:** `MySQL` • `SQLite` • `PostgreSQL` • `Mongodb`
+  - **Protocol:** `REST` • `Web Socket`
+  
+- **Frontend:**
+ - **Language:** `JavaScript` • `TypeScript`
+ - **Framework:** `Reactjs` • `vuejs` • `vitejs` • `reduxjs` • `jquery`
+ - **Utils:** `Tailwind` • `Bootstrap`
+
+
+- **Ecosystem**
