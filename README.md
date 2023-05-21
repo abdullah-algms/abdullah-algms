@@ -26,3 +26,7 @@
  - **Version Control Git:** `Git` • `Github`
  - **CI/CD:** `Jenkins`
  - **Cloud:** `AWS` • `Google Cloud` • `Heroku` • `Digital Ocean` • `Azure`
+
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=abdullah-algms&&style=flat-square) 
