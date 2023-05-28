@@ -23,7 +23,7 @@
 - **Ecosystem:**
 
  - **Containirazation:** `Docker`
- - **Version Control Git:** `Git` • `Github`
+ - **Version Control Git:** `Git`
  - **CI/CD:** `Jenkins`
  - **Cloud:**  `Heroku`
 
