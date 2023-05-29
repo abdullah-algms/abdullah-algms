@@ -11,12 +11,12 @@
  - **Backend:**
   - **Language:** `JavaScript` • `TypeScript` • `Node.js` • `Python` • `PHP`
   - **Framework:** `Laravel` • `Flask`
-  - **Databases:** `MySQL` • `SQLite` • `PostgreSQL` • `Mongodb`
+  - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
   
 - **Frontend:**
  - **Language:** `JavaScript` • `TypeScript`
- - **Framework:** `Reactjs` • `NextJS` • `vuejs` • `vitejs` • `NuxtJS` • `jquery`
+ - **Framework:** `Reactjs` • `NextJS` `vitejs`  • `jquery`
  - **Utils:** `Tailwind` • `Bootstrap`
 
 
