@@ -3,8 +3,7 @@
 #### Who I am?
 - Software Engineer
 - Open Source enthusiast.
-- 🔭 I’m currently freelancing web development and has interests in web automation - scraper, QA Automation, pentesting - Cyber Security,Cryptography, Data Science, Data Analyst, Machine Learning(ML), Deep Learning(DL), Reinforcement Learning (RL), Artificial Intelligence(AI),Neural Networks, NLP, NLTK, Algorithms, Object Tracking, Face Recoginition,System Design, UI/UX Designer - research & Graphic Designer..
-
+- 🔭 I’m currently freelancing web development and has interests in web automation - scraper, QA Automation, pentesting - Cyber Security,Cryptography, Data Science, Data Analyst, Machine Learning(ML), Deep Learning(DL), Reinforcement Learning (RL), Artificial Intelligence(AI),Neural Networks, NLP, NLTK, Algorithms, Object Tracking, Face Recoginition,System Design, UI/UX Designer - research & Graphic Designer..............
 
 #### What skills do I operate?
 
